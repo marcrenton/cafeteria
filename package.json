@@ -17,8 +17,15 @@
   },
   "homepage": "https://github.com/marcrenton/cafeteria#readme",
   "devDependencies": {
+    "autoprefixer": "^10.4.17",
     "gulp": "^4.0.2",
+    "gulp-postcss": "^10.0.0",
     "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.34",
     "sass": "^1.70.0"
-  }
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
+  ]
 }
